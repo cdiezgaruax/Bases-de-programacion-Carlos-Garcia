@@ -1,5 +1,5 @@
 #include <iostream>
-#include "instrucciones_prueba.h"
+#include "1"
 
 void instrucciones_prueba() {
     int edad;
